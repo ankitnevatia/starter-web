@@ -14,3 +14,10 @@ Important commands
 
 ## Deployments
 Info on deployment
+
+## Builds
+Build
+
+
+## Log
+log
